@@ -64,6 +64,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hii/hii/output/snake.svg" alt="Snake animation" />
 
 ###
