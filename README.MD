@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
 <h3 align="center">A passionate ML , Data Science and Mern stack web developer from India</h3>
-<img align = "right" alt ="coding" width = "400" src= "https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1235vishal&label=Profile%20views&color=0e75b6&style=flat" alt="1235vishal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1235vishal" alt="1235vishal" /></a> </p>
 <p align="left"> <a href="https://twitter.com/vishalrajp40108" target="blank"><img src="https://img.shields.io/twitter/follow/vishalrajp40108?logo=twitter&style=for-the-badge" alt="vishalrajp40108" /></a> </p>
+
+
+<img align = "right" alt ="coding" width = "400" src= "https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+
+
+
+
 
 - 🌱 I’m currently learning **ML,Data Science,Deep Learning,Database**
 
